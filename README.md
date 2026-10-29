@@ -15,7 +15,7 @@ Ik heb een mini-level gemaakt waarin je munten moet verzamelen. Op de route staa
 
 ## Screenshot / GIF van je level
 
-![Mini-level preview](images/game.png)
+![Mini-level preview](game.png)
 
 ---
 
